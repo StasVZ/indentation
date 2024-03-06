@@ -1,0 +1,22 @@
+.from-previous__wrapper-one {
+  min-height: 415px;
+  margin-bottom: 30px;
+}
+
+.from-previous__img-one {
+  float: left;
+  padding-right: 30px;
+}
+
+.from-previous__img-two {
+  float: right;
+  padding-left: 40px;
+}
+
+.from-previous__wrapper-two {
+  max-width: 480px;
+}
+
+.from-previous__text:last-child{
+  margin-bottom: 0;
+}

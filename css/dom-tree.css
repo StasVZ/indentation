@@ -1,0 +1,12 @@
+.dom-tree__img-two,
+.dom-tree__img-four,
+.dom-tree__img-five {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dom-tree__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+}
