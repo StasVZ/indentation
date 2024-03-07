@@ -1,4 +1,5 @@
 .header__title {
+  margin-top: 0;
   max-height: 72px;
   font-weight: 900;
   font-size: 50px;
@@ -16,12 +17,12 @@
   height: 215px;
   margin-left: auto;
   margin-right: auto;
-
+  padding-top: 25px;
+  padding-left: 45px;
 }
 
 .navigation__title {
-  padding-top: 25px;
-  padding-left: 45px;
+
   font-weight: 700;
   font-size: 44px;
   line-height: 120%;
@@ -29,9 +30,7 @@
   color: #000;
 }
 
-.navigation__list {
-  padding-left: 50px;
-}
+
 
 .navigation__link {
   font-weight: 400;
