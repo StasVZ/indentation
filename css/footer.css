@@ -7,10 +7,11 @@
   left: -30px;
   margin-left: auto;
   margin-right: auto;
+  padding: 25px 45px;
 }
 
 .footer__title {
-  padding-left: 45px;
+
   font-weight: 700;
   font-size: 44px;
   line-height: 120%;
@@ -27,13 +28,12 @@
   font-size: 20px;
   line-height: 120%;
   margin-bottom: 10px;
-  padding-left: 45px;
+
 }
 
 .footer__text{
-  padding-bottom: 25px;
+
   padding-top: 30px;
-  padding-left: 45px;
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;

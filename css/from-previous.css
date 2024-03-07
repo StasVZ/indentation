@@ -3,6 +3,11 @@
   margin-bottom: 30px;
 }
 
+.from-previous__wrapper-one>.from-previous__text {
+  width: 490px;
+  float: left;
+}
+
 .from-previous__img-one {
   float: left;
   padding-right: 30px;

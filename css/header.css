@@ -30,6 +30,9 @@
   color: #000;
 }
 
+.navigation__item {
+  margin-bottom: 10px;
+}
 
 
 .navigation__link {
@@ -37,4 +40,5 @@
   font-size: 20px;
   line-height: 120%;
   color: #02535f;
+  text-decoration: underline;
 }
